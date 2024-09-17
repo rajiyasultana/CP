@@ -8,10 +8,40 @@ int main(){
     for(int i = 0; i<n; i++){
         cin >> arr[i];
     }
-    
+    int left = 0, right = n-1; //index number for picable cards.
+    int s = 0, d = 0;
+    bool serejaTurn = true;
 
-    sort(arr[n].begin, arr[n].end );
+    while(left <= right) //counting the pickable cards
+    {
+        if(arr[left] > arr[right])
+        {
+            if (serejaTurn)
+            {
+                s += arr[left];
+            }
+            else
+            {
+                d += arr[left];
+            }
+            left++;
+        }
+        else
+        {
+            if (serejaTurn)
+            {
+                s+= arr[right];
+            }
+            else{
+                d += arr[right];
+            }
+            right--;
+        }
+        serejaTurn = !serejaTurn;
 
-    int S = 
+    }
+
+    cout << s << " " << d << endl;
+
     return 0;
 }
