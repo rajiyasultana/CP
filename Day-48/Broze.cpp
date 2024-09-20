@@ -12,11 +12,11 @@ int main() {
             result += "0";
         }
         else if(b[i] == '-'){
-            if(b[i+1]=='.'){
+            if(i + 1 < b.length() && b[i+1]=='.'){
                 result += "1";
                 i++;
             }
-            else if(b[i+1] == '-'){
+            else if(i + 1 < b.length() && b[i+1] == '-'){
                 result += "2";
                 i++;
             }
