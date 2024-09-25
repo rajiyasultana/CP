@@ -4,20 +4,21 @@ Welcome to my 100 Days of Coding Challenge repository! In this challenge, I will
 
 ## Challenge Overview:
 Goal: <br>
-Solve at least one problem every day for 100 consecutive days, focusing on DSA and problem analysis.<br>
-Platforms: <br>
+Solve at least one problem every day for 100 consecutive days, focusing on DSA and problem analysis.
+
+## Platforms:
 1. Leetcode<br>
 2. Codeforces <br>
-3. Hackerrank <br>
-<br>
-Platforms and Problem-Solving Profiles: <br>
-Leetcode: <a href = "https://leetcode.com/u/sultana04/"> Profile </a> <br>
-Codeforces: <a href = "https://codeforces.com/profile/rajiyasultana"> Profile </a> <br>
-Hackerrank: <a href = "https://www.hackerrank.com/profile/rssumu04"> Profile </a> <br>
-<br>
-Goals: <br>
-Improve my understanding of Data Structures and Algorithms.<br>
-Enhance problem-solving skills and develop an analytical mindset.<br>
-Consistently solve problems across different platforms.<br>
-Track progress and keep myself accountable.<br>
+3. Hackerrank <be>
+
+## Problem-Solving Profiles:
+- [Leetcode](https://leetcode.com/u/sultana04/)
+- [Codeforces](https://codeforces.com/profile/rajiyasultana)
+- [Hackerrank](https://www.hackerrank.com/profile/rssumu04)
+
+## Goals:
+- Improve my understanding of Data Structures and Algorithms.
+- Enhance problem-solving skills and develop an analytical mindset.
+- Consistently solve problems across different platforms.
+- Track progress and keep myself accountable.
 
