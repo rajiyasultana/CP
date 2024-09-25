@@ -1,4 +1,5 @@
-<h5> 100 Days of Problem Solving Challenge!! <h5><br>
+# 100 Days of Problem Solving Challenge!!
+
 Welcome to my 100 Days of Coding Challenge repository! In this challenge, I will be solving various Data Structures and Algorithms (DSA) problems from Leetcode, Codeforces, and Hackerrank. Each day has its own folder containing the solutions and problem details. <be>
 <br>
 Challenge Overview: <br>
