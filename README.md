@@ -12,7 +12,7 @@ Platforms: <br>
 Platforms and Problem-Solving Profiles: <br>
 Leetcode: <a href = "https://leetcode.com/u/sultana04/"> Profile </a> <br>
 Codeforces: <a href = "https://codeforces.com/profile/rajiyasultana"> Profile </a> <br>
-Hackerrank: <a href = "https://www.hackerrank.com/profile/rssumu04"> Profile </a> <be>
+Hackerrank: <a href = "https://www.hackerrank.com/profile/rssumu04"> Profile </a> <br>
 <br>
 Goals: <br>
 Improve my understanding of Data Structures and Algorithms.<br>
